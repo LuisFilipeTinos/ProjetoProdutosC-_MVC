@@ -11,41 +11,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoInicio
 build_property.RootNamespace = ProjetoInicio
-build_property.ProjectDir = C:\Users\Aluno\Desktop\ProjetoInicial\ProjetoInicio\
+build_property.ProjectDir = C:\Users\Aluno\Desktop\ProjetoProdutosC-_MVC\ProjetoInicio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Aluno\Desktop\ProjetoInicial\ProjetoInicio
+build_property.MSBuildProjectDirectory = C:\Users\Aluno\Desktop\ProjetoProdutosC-_MVC\ProjetoInicio
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Aluno/Desktop/ProjetoInicial/ProjetoInicio/Views/Home/Index.cshtml]
+[C:/Users/Aluno/Desktop/ProjetoProdutosC-_MVC/ProjetoInicio/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/ProjetoInicial/ProjetoInicio/Views/Home/Privacy.cshtml]
+[C:/Users/Aluno/Desktop/ProjetoProdutosC-_MVC/ProjetoInicio/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/ProjetoInicial/ProjetoInicio/Views/Shared/Error.cshtml]
+[C:/Users/Aluno/Desktop/ProjetoProdutosC-_MVC/ProjetoInicio/Views/Produtos/Criar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JpYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/ProjetoProdutosC-_MVC/ProjetoInicio/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/ProjetoProdutosC-_MVC/ProjetoInicio/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/ProjetoInicial/ProjetoInicio/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Aluno/Desktop/ProjetoProdutosC-_MVC/ProjetoInicio/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/ProjetoInicial/ProjetoInicio/Views/_ViewImports.cshtml]
+[C:/Users/Aluno/Desktop/ProjetoProdutosC-_MVC/ProjetoInicio/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/ProjetoInicial/ProjetoInicio/Views/_ViewStart.cshtml]
+[C:/Users/Aluno/Desktop/ProjetoProdutosC-_MVC/ProjetoInicio/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/ProjetoInicial/ProjetoInicio/Views/Shared/_Layout.cshtml]
+[C:/Users/Aluno/Desktop/ProjetoProdutosC-_MVC/ProjetoInicio/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-115y89qr8r

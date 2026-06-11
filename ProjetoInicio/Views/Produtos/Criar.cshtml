@@ -1,0 +1,25 @@
+@model ProjetoInicio.Models.Produto
+
+<h1>Novo Produto</h1>
+
+<form method="POST" asp-action="Criar">
+    <div class="mb-3">
+        <label class="form-label">Nome</label>
+        <input type="text" 
+               class="form-control" 
+               asp-for="Nome"
+        />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Preço</label>
+        <input type="text" 
+               class="form-control" 
+               asp-for="Preco"
+        />
+    </div>
+
+    <button type="submit" class="btn btn-success">
+        Salvar
+    </button>
+</form>
